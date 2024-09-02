@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lukesthl/ts-axios-digest-auth": "^1.0.5",
+    "axios": "^1.7.7"
+  }
+}
