@@ -40,9 +40,9 @@ This repository provides a Node.js integration for Dahua's ANPR cameras, enablin
    Create a `.env` file in the root directory and add the following:
 
    ```env
-   CAMERA_IP=192.168.1.89
-   CAMERA_USERNAME=admin
-   CAMERA_PASSWORD=admin123
+   CAMERA_IP=192.168.1.2 (Use your camera IP address)
+   CAMERA_USERNAME=admin (Use the actual username)
+   CAMERA_PASSWORD=admin123(Use the actual camera password)
    ```
 
 4. **Run the Integration**:
@@ -107,4 +107,10 @@ For any queries or support, please reach out to:
 
 - **Zephania Mwando**  
   [LinkedIn](www.linkedin.com/in/mwando)  
-  [Email](mailto:zephaniamwando@gmail.com)
+  [Email](mailto:hello@mwando.co.ke)
+  [Website]: https://mwando.co.ke 
+  [LinkedIn]: https://ke.linkedin.com/in/mwandotheboss 
+  [Facebook]: https://www.facebook.com/mwandotheboss/
+  [Instagram]: https://www.instagram.com/mwandotheboss/ 
+  [TikTok]: https://www.tiktok.com/@mwandotheboss 
+  [X]: https://twitter.com/mwandotheboss
